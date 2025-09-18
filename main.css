@@ -67,7 +67,7 @@
 	--rtl-or-ltr: left;
 	
 	/* Original colors */
-	--background-color: #141926;
+	--background-color: #0e0e0e;
 	--dark-background-color: #02050c;
 	--container-color: #373737;
 	--button-color: #2A2A2A;
@@ -96,7 +96,7 @@
 	--background-main-image: unset;
 	--show-codirectors: inline-block;
 	--full-screen-button: inherit;
-	--color-mode: light;
+	--color-mode: dark;
 	--video-background-image-size: auto 30%;
 }
 
